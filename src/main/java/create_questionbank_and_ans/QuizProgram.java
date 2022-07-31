@@ -98,16 +98,16 @@ public class QuizProgram {
             System.out.println(d);
 
             Scanner sc = new Scanner(System.in);
-            System.out.println("Give your answer:");
+            System.out.println("\nGive your answer:");
             String givenAnswer = sc.next();
             String correctAnswer = (String) quizObj.get("answer");
 
             if (givenAnswer.equals(correctAnswer)){
-                System.out.println("Correct Answer!");
+                System.out.println("Correct Answer!\n");
                 point++;
             }
             else {
-                System.out.println("Wrong Answer!");
+                System.out.println("Wrong Answer!\n");
             }
         }
         System.out.println("\nYour total point " + point + " out of 5");
