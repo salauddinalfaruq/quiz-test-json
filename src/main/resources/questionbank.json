@@ -1,0 +1,162 @@
+[
+  {
+    "option c": "c: Sanity Testing",
+    "option d": "d: Regression Testing",
+    "answer": "a",
+    "Question": "Which testing is done by developer?",
+    "option a": "a: Unit Testing",
+    "option b": "b: Integration Testing"
+  },
+  {
+    "option c": "c: Usability and Reliability",
+    "option d": "d: Algorithmic and Data Structure",
+    "answer": "a",
+    "Question": "End result of Software Requirement Analysis is",
+    "option a": "a: Functional and Behavioral",
+    "option b": "b: Architectural and Structural"
+  },
+  {
+    "option c": "c: Dynamic testing",
+    "option d": "d: Static testing",
+    "answer": "d",
+    "Question": "Which Testing is performed first?",
+    "option a": "a: Black box testing",
+    "option b": "b: White box testing"
+  },
+  {
+    "option c": "c: Tester",
+    "option d": "d: QA Team",
+    "answer": "d",
+    "Question": "Verification is the responsibility of_",
+    "option a": "a: Developer",
+    "option b": "b: Designer"
+  },
+  {
+    "option c": "c: Both",
+    "option d": "d: None",
+    "answer": "a",
+    "Question": "Which activity is carried out first?",
+    "option a": "a: Verification",
+    "option b": "b: Validation"
+  },
+  {
+    "option c": "c: Both ",
+    "option d": "d: None",
+    "answer": "a",
+    "Question": "Validation is focused on?",
+    "option a": "a: Product",
+    "option b": "b: Process"
+  },
+  {
+    "option c": "c: Both",
+    "option d": "d: None",
+    "answer": "b",
+    "Question": "Verification is focused on_",
+    "option a": "a: Product",
+    "option b": "b: Process"
+  },
+  {
+    "option c": "c: Iterative model.",
+    "option d": "d: All of the above.",
+    "answer": "c",
+    "Question": "Regression Testing is a major part of which of the life cycle?",
+    "option a": "a: Waterfall model.",
+    "option b": "b: V model."
+  },
+  {
+    "option c": "c: Tester",
+    "option d": "d: QA Team",
+    "answer": "c",
+    "Question": "Validation is the responsibility of_",
+    "option a": "a: Developer",
+    "option b": "b: Designer"
+  },
+  {
+    "option c": "c: System Development Life Cycle.",
+    "option d": "d: Software Development Life Cycle.",
+    "answer": "d",
+    "Question": "Abbreviate the term SDLC?",
+    "option a": "a: System Design Life Cycle.",
+    "option b": "b: Software Design Life Cycle."
+  },
+  {
+    "option c": "c: Agile model.",
+    "option d": "d: Spiral model.",
+    "answer": "c",
+    "Question": " If the project is small then we used ______ .",
+    "option a": "a: Iterative model.",
+    "option b": "b: V model."
+  },
+  {
+    "option c": "c: Glass box testing.",
+    "option d": "d: All of these.",
+    "answer": "a",
+    "Question": "Which of the following is used in high level of testing?",
+    "option a": "a: Functional testing.",
+    "option b": "b: Structural testing"
+  },
+  {
+    "option c": "c: Requirement Analysis.",
+    "option d": "d: Requirement Documentation.",
+    "answer": "b",
+    "Question": "Requirement Engineering is not concern with ______ .",
+    "option a": "a: Requirement Elicitation.",
+    "option b": "b: Requirement Design."
+  },
+  {
+    "option c": "c: Close box testing.",
+    "option d": "d: Glass box testing.",
+    "answer": "c",
+    "Question": "White box testing is not called as____.",
+    "option a": "a: Clear bx tesing.",
+    "option b": "b: Open box testing."
+  },
+  {
+    "option c": "c: Unit testing.",
+    "option d": "d: All of the above.",
+    "answer": "d",
+    "Question": "What are the testing levels?",
+    "option a": "a: System testing and Acceptance testing.",
+    "option b": "b: Integration testing."
+  },
+  {
+    "option c": "c: Testing.",
+    "option d": "d: All of the above.",
+    "answer": "d",
+    "Question": "Which of the following is \/ are a phases of SDLC?",
+    "option a": "a: Requirement gathering.",
+    "option b": "b: Analysis."
+  },
+  {
+    "option c": "c: Ad hoc testing.",
+    "option d": "d: Regression testing.",
+    "answer": "b",
+    "Question": "Executing the same test case by giving the number of inputs on same build called as",
+    "option a": "a: Sanity testing.",
+    "option b": "b: Re-testing."
+  },
+  {
+    "option c": "c: Design based testing.",
+    "option d": "d: None of the above.",
+    "answer": "a",
+    "Question": "Which of the following testing is also known as white-box testing?",
+    "option a": "a: Structural testing",
+    "option b": "b: Requirement Phase"
+  },
+  {
+    "option c": "c: SDLC model.",
+    "option d": "d: Test type.",
+    "answer": "d",
+    "Question": "Functional testing is a ------?",
+    "option a": "a: Test design technique",
+    "option b": "b: Test level."
+  },
+  {
+    "option c": "c: Retesting",
+    "option d": "d: Sanity testing",
+    "answer": "a",
+    "Question": "Which methodology is used to performed Maintenance testing?",
+    "option a": "a: Breadth test and depth test",
+    "option b": "b: Confirmation testing"
+  }
+]
