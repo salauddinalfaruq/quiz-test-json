@@ -102,7 +102,7 @@ public class QuizProgram {
             String givenAnswer = sc.next();
             String correctAnswer = (String) quizObj.get("answer");
 
-            if (givenAnswer.equals(correctAnswer)){
+            if (givenAnswer == correctAnswer){
                 System.out.println("Correct Answer!\n");
                 point++;
             }
